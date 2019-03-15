@@ -6,3 +6,4 @@
 * [Recitation 4](recitation04/r4.pdf)
 * [Recitation 5](recitation05/r5.pdf)
 * [Recitation 6](recitation06/r6.pdf)
+* [Recitation 7](recitation07/r7.pdf)
